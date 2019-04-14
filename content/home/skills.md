@@ -20,6 +20,11 @@ subtitle = ""
   name = "Python"
   description = "Scientific programmer"
 
+[[feature]]
+    icon = "cuttlefish"
+    icon_pack = "fab"
+    name = "Cython"
+    description = "High performance computing"
 
 [[feature]]
   icon = "chart-line"

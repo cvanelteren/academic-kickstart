@@ -54,7 +54,10 @@ user_groups = ["Researchers", "Visitors"]
   icon_pack = "fas"
   link = "#contact"  # For a direct email link, use "mailto:test@caspervanelteren".
 
-
+[[social]]
+    icon = "linkedin-in"
+    icon_pack = "fab"
+    link = "https://www.linkedin.com/in/casper-van-elteren-07934774/"
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
