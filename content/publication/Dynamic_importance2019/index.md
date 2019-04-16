@@ -55,7 +55,7 @@ projects = ["dynamic-importance"]
 slides = ""
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/2650446"
+url_pdf = "http://arxiv.org/abs/1904.06654"
 url_code = "https://github.com/cvanelteren/information_impact"
 url_dataset = ""
 url_project = ""
