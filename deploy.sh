@@ -1,5 +1,5 @@
 #!/bin/bash
-
+git submodule add -b master git@github.com:cvanelteren/cvanelteren.github.io.git public
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
