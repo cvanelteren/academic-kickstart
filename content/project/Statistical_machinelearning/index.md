@@ -13,7 +13,7 @@ summary = "Some lab reports part of master the course statistical machine learni
 tags = ["SM"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://github.com/cvanelteren/SM"
+external_link = "http://github.com/cvanelteren/SML"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder.
