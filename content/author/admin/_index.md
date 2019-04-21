@@ -16,7 +16,7 @@ role = "Master student"
 organizations = [ { name = "Donder's institute for cognitive neuroscience", url = "https://www.ru.nl/donders/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests pertain to providing causal explanations to natural phenomena."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "caspervanelteren@gmail.com"
@@ -38,6 +38,7 @@ user_groups = ["Researchers", "Visitors"]
   course = "MSc in Cognitive neuroscience"
   institution = "Donder's institute for cognitive neuroscience"
   year = 2019
+  test = "test"
 
 [[education.courses]]
   course = "BSc in psychobiology"
