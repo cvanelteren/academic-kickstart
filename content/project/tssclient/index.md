@@ -6,7 +6,7 @@ title = "Apple tss-saver daemon"
 date = 2018-03-10T00:00:00
 
 # Project summary to display on homepage.
-summary = "A python daemon around tss-saver daemon"
+summary = "A python daemon around tss-saver"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
