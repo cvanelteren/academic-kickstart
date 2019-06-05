@@ -2,10 +2,10 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Education"
 subtitle = ""
 
 # Date format for experience
@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research master cognitive neuroscience"
+  company = "Donder's graduate school for cognitive neuroscience"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Nijmegen"
+  date_start = "2016-08-23"
+  date_end = "2019-04-01"
   description = """
-  Responsibilities include:
+  *Cum laude*
 
-  * Analysing
-  * Modelling
-  * Deploying
+  Core courses include:
+
+  * Congition and complexity
+  * Machine learning
+  * Brain-computer interfacing
+  * Computational neuroscience
+  * Computational cognitive neuroscience
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research bachelor psychobiology"
+  company = "University of Amsterdam"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Amsterdam"
+  date_start = "2011-09-01"
+  date_end = "2014-09-01"
+  description = """
+  *Cum laude*
 
+    * Minor in computational science
+    * Research proposal finalist
+    * Students' Response group"""
 +++
