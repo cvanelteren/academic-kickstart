@@ -37,5 +37,9 @@ subtitle = ""
   icon_pack = "fas"
   name = "Personal"
   description = "Creative -- Hard-working -- Tenacity"
-
+[[feature]]
+    icon = "hand-spock"
+    icon_pack = 'fas'
+    name = "Other programming languages"
+    description = "C++ --Matlab -- Julia -- R"
 +++
