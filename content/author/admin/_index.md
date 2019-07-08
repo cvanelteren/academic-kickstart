@@ -16,7 +16,7 @@ role = "Master student"
 organizations = [ { name = "Donder's institute for cognitive neuroscience", url = "https://www.ru.nl/donders/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include information theory, causal inference and complexity science."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "caspervanelteren@gmail.com"
