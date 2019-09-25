@@ -40,7 +40,7 @@ categories = ['Applications']
 
 <iframe 
 	src = "https://nbviewer.jupyter.org/github/cvanelteren/inria_2019/blob/master/Interview_questions.ipynb"	
-	width = '90%'
+	width = '100%'
 	height = '1000px'
 	style = "border:none;'
 
