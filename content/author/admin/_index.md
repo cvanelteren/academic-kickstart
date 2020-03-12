@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Master student"
+role = "Phd Computational science"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Donder's institute for cognitive neuroscience", url = "https://www.ru.nl/donders/" } ]
+organizations = [ { name = "University of Amsterdam", url = "https://uva.computationalscience.nl/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests pertain to providing causal explanations to natural phenomena."
